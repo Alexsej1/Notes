@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "email": "Zar@mail.ru",
+      "password": "A12345678",
+      "date": "02/12/2023",
+      "id": 1
+    },
+    {
+      "email": "C@mail.ru",
+      "password": "A12345678",
+      "repPassword": "A12345678",
+      "date": "3/12/2023",
+      "id": 2
+    }
+  ],
+  "notes": [
+    {
+      "userId": 1,
+      "title": "Ольга, 40 лет. 300м от вас",
+      "body": "Живу одна",
+      "date": "3/12/2023",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "title": "Hi!!!!",
+      "body": "Mu name is",
+      "date": "3/12/2023",
+      "id": 2
+    }
+  ]
+}
